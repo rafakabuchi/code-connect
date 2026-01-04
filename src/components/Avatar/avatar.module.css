@@ -1,0 +1,10 @@
+.lista {
+    list-style-type: none;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    gap: 4.5px;
+    color: #888888;
+    margin: 0;
+    padding: 0;
+}

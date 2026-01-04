@@ -1,0 +1,49 @@
+.card {
+    max-width: 486px;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+}
+
+.card header {
+    background-color: #888888;
+    width: 100%;
+    border-radius: 8px 8px 0 0;
+}
+
+.card figure {
+    padding: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}
+
+.imagemCard {
+    border-radius: 8px;
+}
+
+.card section {
+    color: #bcbcbc;
+}
+
+.card section h2 {
+    font-size: 18px;
+    font-weight: 600;
+    margin: 0;
+}
+
+.card section p {
+    font-size: 15px;
+    margin: 8px 0px 0px 0px;
+}
+
+.card section,
+.card footer {
+    background-color: #171d1f;
+    padding: 16px;
+}
+
+.card footer {
+    border-radius: 0 0 8px 8px;
+}
