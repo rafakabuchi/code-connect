@@ -15,3 +15,7 @@
 {"level":"info","message":"posts obtidos com sucesso!"}
 {"level":"info","message":"posts obtidos com sucesso!"}
 {"level":"info","message":"posts obtidos com sucesso!"}
+{"level":"error","message":"Erro de rede: fetch failed"}
+{"level":"error","message":"Problema ao obter os posts"}
+{"level":"error","message":"Erro de rede: fetch failed"}
+{"level":"error","message":"Problema ao obter os posts"}

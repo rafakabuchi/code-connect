@@ -1,5 +1,15 @@
 .postsContainer {
     display: flex;
+    gap: 24px;
     flex-wrap: wrap;
-    gap: 32px;
+    justify-content: space-between;
+}
+
+.links {
+    text-align: center;
+    flex-grow: 1;
+}
+
+.links a {
+    margin: 0 8px;
 }
